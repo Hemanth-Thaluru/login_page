@@ -1,5 +1,5 @@
 # Login/SignUp Page With NextJS and Posgres DB
--   I designed and developed this page for my initial assigment for a UX role at TrexQuant
+-   I designed and developed this page for my initial assigment for Full Stack Software Engineer - Design and UX (USA) at Trexquant Investment.
 -   To try the app - [here](https://login-page-od6j37l9m-hemanth-thalurus-projects.vercel.app/login)
 
 # Design Files
